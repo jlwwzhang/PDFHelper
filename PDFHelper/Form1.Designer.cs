@@ -145,7 +145,7 @@
             this.txt_size.Name = "txt_size";
             this.txt_size.Size = new System.Drawing.Size(169, 23);
             this.txt_size.TabIndex = 20;
-            this.txt_size.Text = "80";
+            this.txt_size.Text = "65";
             // 
             // img_show
             // 

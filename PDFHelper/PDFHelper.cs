@@ -99,7 +99,7 @@ namespace PDFHelper
         /// <param name="y">y偏移</param>
         /// <param name="rotation">角度</param>
         /// <return>true or false</return>
-        #region
+        #region 添加普通偏转角度文字水印
         public static void AddWordWatermark2PDF(string inputfilepath, string outputfilepath, string waterMarkName,int x , int y , int rotation , int fontsize)
         {
             PdfReader pdfReader = null;
